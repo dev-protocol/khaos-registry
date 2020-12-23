@@ -2,5 +2,9 @@
 	{
 		"id": "example",
 		"ipfs": "QmPGof4vrGsfw61S2s6yZ5QpFgiYzR1w53acAdnx1KSNF7"
+	},
+	{
+		"id": "github-market",
+		"ipfs": "QmVjj8h6S1QkFeCkFQDNsS7doerSyPhvzBdwLjxAt8C9Ff"
 	}
 ]
