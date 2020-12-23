@@ -23,3 +23,14 @@ jobs:
 
       - name: lint
         run: npm run lint
+
+  update:
+    needs: build
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Update
+        run: |
+          curl -X POST -H "Authorization: token ${{ secrets.REPO_ACCESS_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -d '{"event_type": "update"}' https://api.github.com/repos/dev-protocol/khaos-functions/dispatches
