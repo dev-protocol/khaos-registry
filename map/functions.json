@@ -10,5 +10,9 @@
 	{
 		"id": "github-incubator-twitter",
 		"ipfs": "QmduCUQR3QaA3p7MpYbLCmJd4my8ZCqCpV8q4y8FNV28Uf"
-	}
+	},
+        {
+                "id": "update-cap",
+                "ipfs": "QmbdFQg7fZiCP2RWKUV3fSmwQvgbJtywn9zQB7CcdLvEuL"
+        }
 ]
