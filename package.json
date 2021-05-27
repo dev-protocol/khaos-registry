@@ -3,12 +3,8 @@
 	"private": true,
 	"description": "Khaos Registry for functions ipfs hash",
 	"scripts": {
-		"lint": "prettier --write '**/*.{json,md,yml}'"
-	},
-	"husky": {
-		"hooks": {
-			"pre-commit": "npm run lint"
-		}
+		"lint": "prettier --write '**/*.{json,md,yml}'",
+		"prepare": "husky install"
 	},
 	"devDependencies": {
 		"husky": "6.0.0",
