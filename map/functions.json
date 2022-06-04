@@ -1,26 +1,26 @@
 [
 	{
 		"id": "example",
-		"ipfs": "QmaxC88PchKV967XYSZqEZRi1hxktnk8sxDrETNN1UXXzS"
+		"ipfs": "QmSfKj57GLmnjthA9PxFt9RLszoJ3W25JwiuE6phgLZPwB"
 	},
 	{
 		"id": "github-market",
-		"ipfs": "QmeLwscnsRycY3vqo9WMZDaHYNvsyWryK9C2pGsmi9HKVK"
+		"ipfs": "QmUcV6dnKiauTqbmA4tKEEWPQXe22T9XM76LBMKtTGGVhH"
 	},
 	{
 		"id": "update-cap",
-		"ipfs": "QmaVd4NZMqjEFE3oyThbhtLxzgnvieLj3n58aXm4bz3dLL"
+		"ipfs": "QmdMSUwyDqBxyxCL7PdfGXVdd82s29nvNkLcjjZvAYEV6b"
 	},
 	{
 		"id": "update-cap-v2",
-		"ipfs": "QmWwiB6YcqikijUY2oXPB8GuLB6Hubisi9VaaK9FvtQsfQ"
+		"ipfs": "Qmd9yeJEJkavhdP7SHNfbTpo6EvJ7NrcgsdZTch3bKzC9x"
 	},
 	{
 		"id": "youtube-market",
-		"ipfs": "QmbwuZuy8EZqfNRYwUxc5JakcdNhNL2F5LBzpXqhWYjLeD"
+		"ipfs": "QmepUDL2yxdesGBZJgUAEAQRjPEpWWQp4abRoD5miMxkN2"
 	},
 	{
 		"id": "discord-market",
-		"ipfs": "QmNoqB8f2PYxLHC38wATeThpNRtQEKa3VdZ311mznuk5hT"
+		"ipfs": "QmfBxHiUXQ7ho2Q7HYNccZscRPDmmGqBbyzv62o5cGUiRC"
 	}
 ]
