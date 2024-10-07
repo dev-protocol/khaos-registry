@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"husky@9.0.2":
-  "integrity" "sha512-0yR5R3OPjl8bYApi6T4QMOAwhtLhBjdYIVg5S6zSzIO8DIvQMh/b7Q8jW3WLbHLHtzpwiyMLBNB4R0Eb6x5+AA=="
-  "resolved" "https://registry.npmjs.org/husky/-/husky-9.0.2.tgz"
-  "version" "9.0.2"
+"husky@9.1.6":
+  "integrity" "sha512-sqbjZKK7kf44hfdE94EoX8MZNk0n7HeW37O4YrVGCF4wzgQjp+akPAkfUK5LZ6KuR/6sqeAVuXHji+RzQgOn5A=="
+  "resolved" "https://registry.npmjs.org/husky/-/husky-9.1.6.tgz"
+  "version" "9.1.6"
 
 "prettier@2.8.8":
   "integrity" "sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q=="
